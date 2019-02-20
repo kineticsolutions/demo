@@ -144,7 +144,7 @@ body {
   background-color: #11cbfb !important;
 }
 .bg-danger {
-  background-color: #0084ff !important;
+  background-color: #008cdd !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #cc2952 !important;
-  border-color: #cc2952 !important;
+  background-color: #169bd7 !important;
+  border-color: #169bd7 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #8c1c38 !important;
-  border-color: #8c1c38 !important;
+  background-color: #0f6992 !important;
+  border-color: #0f6992 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #8c1c38 !important;
-  border-color: #8c1c38 !important;
+  background-color: #0f6992 !important;
+  border-color: #0f6992 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -248,8 +248,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #0084ff !important;
-  border-color: #0084ff !important;
+  background-color: #008cdd !important;
+  border-color: #008cdd !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -257,14 +257,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #005cb3 !important;
-  border-color: #005cb3 !important;
+  background-color: #005c91 !important;
+  border-color: #005c91 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #005cb3 !important;
-  border-color: #005cb3 !important;
+  background-color: #005c91 !important;
+  border-color: #005c91 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #771830;
-  color: #771830;
+  border-color: #0d587a;
+  color: #0d587a;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #cc2952;
-  border-color: #cc2952;
+  background-color: #169bd7;
+  border-color: #169bd7;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #cc2952 !important;
-  border-color: #cc2952 !important;
+  background-color: #169bd7 !important;
+  border-color: #169bd7 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -412,22 +412,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #004f99;
-  color: #004f99;
+  border-color: #004b77;
+  color: #004b77;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #0084ff;
-  border-color: #0084ff;
+  background-color: #008cdd;
+  border-color: #008cdd;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #0084ff !important;
-  border-color: #0084ff !important;
+  background-color: #008cdd !important;
+  border-color: #008cdd !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #11cbfb !important;
 }
 .text-secondary {
-  color: #cc2952 !important;
+  color: #169bd7 !important;
 }
 .text-success {
   color: #bccede !important;
@@ -479,7 +479,7 @@ body {
   color: #11cbfb !important;
 }
 .text-danger {
-  color: #0084ff !important;
+  color: #008cdd !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #771830 !important;
+  color: #0d587a !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -509,7 +509,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #004f99 !important;
+  color: #004b77 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -529,7 +529,7 @@ a.text-black:focus {
   background-color: #11cbfb;
 }
 .alert-danger {
-  background-color: #0084ff;
+  background-color: #008cdd;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -585,7 +585,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #cce6ff;
+  color: #aae0ff;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
